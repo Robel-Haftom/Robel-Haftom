@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Robel-Haftom
-- 👀 I’m interested in developing android apps
-- 🌱 I’m currently learning computer science degreen at University of Gondar, Ethiopia
+- 👀 I’m interested in fullstack web development
+- 🌱 I’m currently working in Wegagen bank
+- 🎓 I am a computer science graduate from University of Gondar, Ethiopia
 
 <!---
 Robel-Haftom/Robel-Haftom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
