@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Robel-Haftom
 - 👀 I’m interested in fullstack web development
-- 🌱 I’m currently working in Wegagen bank
+- 🌱 I’m currently working at Wegagen bank
 - 🎓 I am a computer science graduate from University of Gondar, Ethiopia
 
 <!---
